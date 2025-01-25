@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>  // Inclui biblioteca padrão para entrada e saída
 
 int main() {
     int num1, num2, soma;
@@ -15,5 +15,5 @@ int main() {
     // Exibe o resultado
     printf("A soma de %d e %d é: %d\n", num1, num2, soma);
 
-    return 0;
+    return 0;  // Indica que o programa terminou com sucesso
 }
